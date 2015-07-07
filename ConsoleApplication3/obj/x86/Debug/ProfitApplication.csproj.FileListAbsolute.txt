@@ -1,0 +1,30 @@
+C:\Users\Ajay\Google Drive\ASD\Assignment 1\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.exe
+C:\Users\Ajay\Google Drive\ASD\Assignment 1\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.pdb
+C:\Users\Ajay\Google Drive\ASD\Assignment 1\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Ajay\Google Drive\ASD\Assignment 1\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Ajay\Google Drive\ASD\Assignment 1\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ProfitApplication.csprojResolveAssemblyReference.cache
+F:\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.exe
+F:\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.pdb
+F:\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+F:\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+F:\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ProfitApplication.csprojResolveAssemblyReference.cache
+F:\ConsoleApplication3 - Copy\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.exe
+F:\ConsoleApplication3 - Copy\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.pdb
+F:\ConsoleApplication3 - Copy\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+F:\ConsoleApplication3 - Copy\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+F:\ConsoleApplication3 - Copy\ConsoleApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ajay\Desktop\ConsoleApplication3 - Copy\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.exe
+C:\Users\Ajay\Desktop\ConsoleApplication3 - Copy\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.pdb
+C:\Users\Ajay\Desktop\ConsoleApplication3 - Copy\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Ajay\Desktop\ConsoleApplication3 - Copy\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Ajay\Desktop\ConsoleApplication3 - Copy\ConsoleApplication3\obj\x86\Debug\ProfitApplication.csprojResolveAssemblyReference.cache
+C:\Users\Ajay\Google Drive\ASD\Assignment 1\Complete 2 Applications\ConsoleApplication3 - Copy\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.exe
+C:\Users\Ajay\Google Drive\ASD\Assignment 1\Complete 2 Applications\ConsoleApplication3 - Copy\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.pdb
+C:\Users\Ajay\Google Drive\ASD\Assignment 1\Complete 2 Applications\ConsoleApplication3 - Copy\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Ajay\Google Drive\ASD\Assignment 1\Complete 2 Applications\ConsoleApplication3 - Copy\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Ajay\Google Drive\ASD\Assignment 1\Complete 2 Applications\ConsoleApplication3 - Copy\ConsoleApplication3\obj\x86\Debug\ProfitApplication.csprojResolveAssemblyReference.cache
+F:\Complete University Projects\C# Console Applications\Profit_Evaluating_System\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.exe
+F:\Complete University Projects\C# Console Applications\Profit_Evaluating_System\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.pdb
+F:\Complete University Projects\C# Console Applications\Profit_Evaluating_System\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+F:\Complete University Projects\C# Console Applications\Profit_Evaluating_System\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+F:\Complete University Projects\C# Console Applications\Profit_Evaluating_System\ConsoleApplication3\obj\x86\Debug\ProfitApplication.csprojResolveAssemblyReference.cache
